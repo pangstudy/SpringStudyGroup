@@ -15,8 +15,6 @@ b
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 e
 5src/main/java/com/example/jpa/board/entity/Board.java,e/e/eeb81a3cb6cef1f9398b082cdd06413c54476ad3
-h
-8src/main/java/com/example/jpa/board/controller/test.java,1/1/11512f43956c0cdbd3445b94fbafc33fca11291e
 v
 Fsrc/main/java/com/example/jpa/board/controller/ApiBoardController.java,2/d/2d0224f33f234903bb695d8215b838df69f017dd
 s
